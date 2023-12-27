@@ -250,7 +250,7 @@ namespace Tyuiu.ZargarovAA.Sprint7.V13
             this.panelTOP_ZAA.Controls.Add(this.iconButton_сlose_ZAA);
             this.panelTOP_ZAA.Controls.Add(this.panel2);
             this.panelTOP_ZAA.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panelTOP_ZAA.Location = new System.Drawing.Point(-6, -1);
+            this.panelTOP_ZAA.Location = new System.Drawing.Point(0, -1);
             this.panelTOP_ZAA.Name = "panelTOP_ZAA";
             this.panelTOP_ZAA.Size = new System.Drawing.Size(1013, 84);
             this.panelTOP_ZAA.TabIndex = 4;
